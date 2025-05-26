@@ -9,7 +9,7 @@ require (
 	github.com/go-chi/cors v1.2.1
 	github.com/go-chi/httprate v0.15.0
 	github.com/kelseyhightower/envconfig v1.4.0
-	github.com/samber/mo v1.13.0
+	github.com/samber/mo v1.14.0
 	github.com/satori/go.uuid v1.2.0
 	github.com/stretchr/testify v1.10.0
 	github.com/vektah/gqlparser/v2 v2.5.27
